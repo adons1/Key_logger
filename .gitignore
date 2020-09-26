@@ -1,0 +1,14 @@
+/TCP_Server_and_Client.sln
+.vs/
+
+Client_side/bin/
+Client_side/obj/
+Client_side/Properties/
+Client_side/App.config
+Client_side/Client_side.csproj
+
+TCP_Server_and_Client/bin/
+TCP_Server_and_Client/obj/
+TCP_Server_and_Client/Properties/
+TCP_Server_and_Client/App.config
+TCP_Server_and_Client/TCP_Server_and_Client.csproj
